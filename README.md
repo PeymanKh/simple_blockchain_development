@@ -23,7 +23,7 @@ A blockchain consists of several key components:
 
 
 <a name="structure"></a>
-## 2. Project Structure
+# 2. Project Structure
 The project codes consists of the following files:
 - `block.py`: Contains the `Block` class, which represents a single block in the blockchain.
 - `blockchain.py`: Contains the `Blockchain` class, which manages the chain of blocks.
@@ -31,7 +31,7 @@ The project codes consists of the following files:
 
 
 <a name="installation"></a>
-## 3. Installation and Setup
+# 3. Installation and Setup
 To run this project, you need to have Python installed. Follow the steps below to set up the project:
 1. Clone the repository:
     ```bash
@@ -49,7 +49,7 @@ To run this project, you need to have Python installed. Follow the steps below t
     ```
 
 <a name="usage"></a>
-## 4. Usage
+# 4. Usage
 To run the blockchain implementation and see it in action, execute the `main.py` script:
 ```bash
 python main.py
